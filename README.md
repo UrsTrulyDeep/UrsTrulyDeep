@@ -2,8 +2,7 @@
 <h3 align="center">Java Backend Developer | Spring Boot Specialist | Tech Storyteller</h3>
 
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Code.+Debug.+Repeat.;Lover+of+Clean+Code+%26+Coffee.;Spiritual+Seeker+%7C+Tech+Nerd+%7C+Lifelong+Learner" alt="Typing SVG" />
-
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Code.+Debug.+Repeat.;Passionate+about+Clean+Code+%26+Logic.;Spiritual+Seeker+%7C+Tech+Nerd+%7C+Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 ---
