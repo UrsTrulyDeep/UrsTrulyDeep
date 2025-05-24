@@ -4,6 +4,9 @@
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Code.+Debug.+Repeat.;Passionate+about+Clean+Code+%26+Logic.;Spiritual+Seeker+%7C+Tech+Nerd+%7C+Lifelong+Learner" alt="Typing SVG" />
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=urstrulydeep&style=flat-square&color=blue" alt="Profile Views" />
+</p>
 
 ---
 
