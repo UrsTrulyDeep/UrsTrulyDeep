@@ -68,9 +68,3 @@
 </p>
 
 ---
-
-### ⚡ Fun Fact
-
-> *“The more I simplify my life, the better my code gets.”*
-
----
